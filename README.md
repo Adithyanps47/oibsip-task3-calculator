@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[app/src/main/res/mipmap-xxxhdpi/ic_launcher.png](https://github.com/Adithyanps47/oibsip-task3-calculator/blob/main/app/src/main/ic_launcher-playstore.png)" width="120" height="120" alt="Calculator Logo"/>
+  <img src"https://github.com/Adithyanps47/oibsip-task3-calculator/blob/main/app/src/main/ic_launcher-playstore.png" width="120" height="120" alt="Calculator Logo"/>
 
   <h1>Scientific Calculator App</h1>
   <p>
