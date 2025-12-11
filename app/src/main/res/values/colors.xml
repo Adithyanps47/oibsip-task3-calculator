@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+
+    <color name="light_bg_start">#E0F7FA</color> <color name="light_bg_end">#F3E5F5</color>   <color name="light_glass_fill">#40FFFFFF</color> <color name="light_glass_border">#80FFFFFF</color>
+    <color name="light_text_primary">#1A237E</color> <color name="light_text_secondary">#880E4F</color>
+    <color name="light_accent_glow">#00BCD4</color>
+
+    <color name="dark_bg_start">#2E3192</color> <color name="dark_bg_end">#1BFFFF</color>   <color name="dark_glass_fill">#10FFFFFF</color> <color name="dark_glass_border">#30FFFFFF</color> <color name="dark_text_primary">#FFFFFF</color>
+    <color name="dark_text_secondary">#B3E5FC</color>
+    <color name="dark_accent_glow">#80DEEA</color>
+</resources>
