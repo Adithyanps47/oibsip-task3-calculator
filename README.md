@@ -45,9 +45,9 @@ Watch the engine handle complex mathematical challenges:
 
 | Test Case | Description | Demo |
 | :--- | :--- | :---: |
-| **1. The Stress Test** | `100 + 4! * 2 - 5^2`<br>Demonstrates strict **Operator Precedence**. The engine prioritizes the Factorial (`!`) and Exponent (`^`) before Multiplication and Subtraction. | [**▶️ Watch Video**](demo_operator_precedence.mp4) |
-| **2. Scientific Mapping** | `sin(90) + log(100) * (3 + 1)`<br>Shows function mapping where `log` converts to Base 10 and `sin` accepts Degrees. Resolves nested brackets first. | [**▶️ Watch Video**](demo_function_mapping.mp4) |
-| **3. Tree Structure** | `(5 + 3) * (10 - 2)`<br>Visualizes **Tree Logic**. The parser resolves child nodes `(5+3)` and `(10-2)` before executing the root multiplication node. | [**▶️ Watch Video**](demo_ast_tree_logic.mp4) |
+| **1. The Stress Test** | `100 + 4! * 2 - 5^2`<br>Demonstrates strict **Operator Precedence**. The engine prioritizes the Factorial (`!`) and Exponent (`^`) before Multiplication and Subtraction. | [**▶️ Watch Video**]([demo_operator_precedence.mp4](https://github.com/Adithyanps47/oibsip-task3-calculator/blob/main/docs/demo_video/demo_operator_precedence.mp4)) |
+| **2. Scientific Mapping** | `sin(90) + log(100) * (3 + 1)`<br>Shows function mapping where `log` converts to Base 10 and `sin` accepts Degrees. Resolves nested brackets first. | [**▶️ Watch Video**]([demo_function_mapping.mp4](https://github.com/Adithyanps47/oibsip-task3-calculator/blob/main/docs/demo_video/demo_function_mapping.mp4)) |
+| **3. Tree Structure** | `(5 + 3) * (10 - 2)`<br>Visualizes **Tree Logic**. The parser resolves child nodes `(5+3)` and `(10-2)` before executing the root multiplication node. | [**▶️ Watch Video**]([demo_ast_tree_logic.mp4](https://github.com/Adithyanps47/oibsip-task3-calculator/blob/main/docs/demo_video/demo_ast_tree_logic.mp4)) |
 
 > **Note:** You can also view the full demonstration on my [LinkedIn Profile](https://www.linkedin.com/in/adithyan-p-s-mobile/).
 
