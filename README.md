@@ -38,7 +38,7 @@ The core logic relies on advanced algorithm concepts to ensure precision:
 ## 📸 Screenshots
 | Light Mode ("Ice Glass") | Dark Mode ("Deep Space") |
 |:---:|:---:|
-| <img src="ui_glassmorphism_light.png" width="280" alt="Light Mode UI"> | <img src="ui_glassmorphism_dark.png" width="280" alt="Dark Mode UI"> |
+| <img src="[ui_glassmorphism_light.png](https://github.com/Adithyanps47/oibsip-task3-calculator/blob/main/docs/screenshots/ui_glassmorphism_light.jpg)" width="280" alt="Light Mode UI"> | <img src="[ui_glassmorphism_dark.png](https://github.com/Adithyanps47/oibsip-task3-calculator/blob/main/docs/screenshots/ui_glassmorphism_dark.jpg)" width="280" alt="Dark Mode UI"> |
 
 ## 🎥 Demos & Test Cases
 Watch the engine handle complex mathematical challenges:
