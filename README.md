@@ -3,7 +3,7 @@
 
   <h1>Scientific Calculator App</h1>
   <p>
-    <b>OIBSIP Task 2</b> - Android Development Internship
+    <b>OIBSIP Task 3</b> - Android Development Internship
   </p>
 
   <a href="https://github.com/Adithyanps47">
@@ -38,16 +38,16 @@ The core logic relies on advanced algorithm concepts to ensure precision:
 ## 📸 Screenshots
 | Light Mode ("Ice Glass") | Dark Mode ("Deep Space") |
 |:---:|:---:|
-| <img src="[ui_glassmorphism_light.png](https://github.com/Adithyanps47/oibsip-task3-calculator/blob/main/docs/screenshots/ui_glassmorphism_light.jpg)" width="280" alt="Light Mode UI"> | <img src="[ui_glassmorphism_dark.png](https://github.com/Adithyanps47/oibsip-task3-calculator/blob/main/docs/screenshots/ui_glassmorphism_dark.jpg)" width="280" alt="Dark Mode UI"> |
+| <img src="https://github.com/Adithyanps47/oibsip-task3-calculator/blob/main/docs/screenshots/ui_glassmorphism_light.jpg?raw=true" width="280" alt="Light Mode UI"> | <img src="https://github.com/Adithyanps47/oibsip-task3-calculator/blob/main/docs/screenshots/ui_glassmorphism_dark.jpg?raw=true" width="280" alt="Dark Mode UI"> |
 
 ## 🎥 Demos & Test Cases
 Watch the engine handle complex mathematical challenges:
 
 | Test Case | Description | Demo |
 | :--- | :--- | :---: |
-| **1. The Stress Test** | `100 + 4! * 2 - 5^2`<br>Demonstrates strict **Operator Precedence**. The engine prioritizes the Factorial (`!`) and Exponent (`^`) before Multiplication and Subtraction. | [**▶️ Watch Video**]([demo_operator_precedence.mp4](https://github.com/Adithyanps47/oibsip-task3-calculator/blob/main/docs/demo_video/demo_operator_precedence.mp4)) |
-| **2. Scientific Mapping** | `sin(90) + log(100) * (3 + 1)`<br>Shows function mapping where `log` converts to Base 10 and `sin` accepts Degrees. Resolves nested brackets first. | [**▶️ Watch Video**]([demo_function_mapping.mp4](https://github.com/Adithyanps47/oibsip-task3-calculator/blob/main/docs/demo_video/demo_function_mapping.mp4)) |
-| **3. Tree Structure** | `(5 + 3) * (10 - 2)`<br>Visualizes **Tree Logic**. The parser resolves child nodes `(5+3)` and `(10-2)` before executing the root multiplication node. | [**▶️ Watch Video**]([demo_ast_tree_logic.mp4](https://github.com/Adithyanps47/oibsip-task3-calculator/blob/main/docs/demo_video/demo_ast_tree_logic.mp4)) |
+| **1. The Stress Test** | `100 + 4! * 2 - 5^2`<br>Demonstrates strict **Operator Precedence**. The engine prioritizes the Factorial (`!`) and Exponent (`^`) before Multiplication and Subtraction. | [**▶️ Watch Video**](https://github.com/Adithyanps47/oibsip-task3-calculator/blob/main/docs/demo_video/demo_operator_precedence.mp4) |
+| **2. Scientific Mapping** | `sin(90) + log(100) * (3 + 1)`<br>Shows function mapping where `log` converts to Base 10 and `sin` accepts Degrees. Resolves nested brackets first. | [**▶️ Watch Video**](https://github.com/Adithyanps47/oibsip-task3-calculator/blob/main/docs/demo_video/demo_function_mapping.mp4) |
+| **3. Tree Structure** | `(5 + 3) * (10 - 2)`<br>Visualizes **Tree Logic**. The parser resolves child nodes `(5+3)` and `(10-2)` before executing the root multiplication node. | [**▶️ Watch Video**](https://github.com/Adithyanps47/oibsip-task3-calculator/blob/main/docs/demo_video/demo_ast_tree_logic.mp4) |
 
 > **Note:** You can also view the full demonstration on my [LinkedIn Profile](https://www.linkedin.com/in/adithyan-p-s-mobile/).
 
@@ -63,7 +63,7 @@ If you want to build the project from source:
 
 1.  **Clone the repository**
     ```bash
-    git clone [https://github.com/Adithyanps47/scientific-calculator.git](https://github.com/Adithyanps47/scientific-calculator.git)
+    git clone [https://github.com/Adithyanps47/oibsip-task3-calculator.git](https://github.com/Adithyanps47/oibsip-task3-calculator.git)
     ```
 2.  **Open in Android Studio**
     * Open Android Studio -> File -> Open -> Select the cloned folder.
@@ -74,14 +74,14 @@ If you want to build the project from source:
 
 ## 📱 Download APK
 Don't want to build it? Download the latest version directly:
-[**⬇️ Download v1.0 APK**](https://github.com/Adithyanps47/scientific-calculator/releases)
+[**⬇️ Download v1.0 APK**](https://github.com/Adithyanps47/oibsip-task3-calculator/releases)
 
 ---
 
 ## 👤 Internship Details
 * **Company:** Oasis Infobyte
 * **Program:** Android Development Internship
-* **Task:** Task 2 (Scientific Calculator)
+* **Task:** Task 3 (Scientific Calculator)
 * **Intern:** Adithyan P S
 * **LinkedIn:** [**Adithyan P S**](https://www.linkedin.com/in/adithyan-p-s-mobile/)
 
